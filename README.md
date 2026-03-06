@@ -42,16 +42,15 @@
 | Problem_Solving_for_Better_Health.jpg | Problem Solving for Better Health® Problemthon（Dreyfus Health Policy and Research Center） | TMU × Dreyfus | 2020 |
 | PSBH獎狀.jpg | Problem Solving for Better Health® 結業證書 | TMU × 大同大學 × 台北科大 | 2020 |
 | 參加證明證書-BAKU.pdf | 2022 Global Student Innovation Challenge REAT Taiwan — 參加證明 | 臺北醫學大學 / TREATS | 2022 |
-
----
-
-## 📂 05_感謝狀與表揚
-
-| 檔案名稱 | 活動名稱 | 頒發單位 | 年份 |
-|----------|----------|----------|------|
 | Enterprise_Collaboration_感謝狀.jpg | 111學年度高教深耕計畫教學面成果展 — Enterprise Collaboration 主題分享感謝狀 | 臺北醫學大學 教務長 | 2022 |
 | 創意競賽參加證明.jpg | 2020 臺北醫學大學醫學工程創意競賽（大專組）參加證明 | 臺北醫學大學 醫學工程學院 | 2020 |
 
 ---
 
-*共 20 份證書／獎狀，涵蓋 2020–2023 年*
+## 📂 05_Employment Certificate
+
+| 檔案名稱 | 活動名稱 | 頒發單位 | 年份 |
+|----------|----------|----------|------|
+| 服務證明_黃子珂.pdf | 實習工作證明 | 安克生醫研發部 | 2024/2-2024/9 |
+| AmCad BioMed Corporation.pdf | 實習工作證明 | 安克生醫研發部 | 2025/6-2026/2  |
+
